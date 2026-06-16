@@ -5,3 +5,4 @@ from math import *
 # pow : power 
 
 print(sqrt(6))
+print(isqrt(8))
