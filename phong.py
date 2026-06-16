@@ -6,8 +6,7 @@ if (n <= 50 or n >= 100):
     print('python 28tech')
     print('Programing')
 
-
-if n % 3 == 0 and n % 5 == 0 :
+if (n % 3 == 0 and n % 5 == 0) :
     print('Ok')
 else : 
     print('Not Ok')
