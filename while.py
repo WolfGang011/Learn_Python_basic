@@ -13,7 +13,7 @@
 # đếm số lượng chữ số 
 
 n = 1234
-dem = 0 
+dem = 0
 while n != 0:
     dem = dem + 1
     n = n // 10

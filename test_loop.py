@@ -7,5 +7,5 @@
 
 n = 10 
 
-for i in range(1, 10, 0):
+for i in range(1, 10, 1):
     print(i)
